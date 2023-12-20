@@ -1,4 +1,4 @@
-**Title: Unleashing Zoop: A Comprehensive Guide to Zooming and Panning in SVG**
+# Unleashing Zoop: A Comprehensive Guide to Zooming and Panning in SVG
 
 ### Introduction
 
